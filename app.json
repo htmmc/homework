@@ -1,0 +1,93 @@
+{
+"basics": {
+  "name": "Hitomi Mizugaki",
+  "label": "Jr. Web Developer",
+  "email": "hitomi.mzgk@gmail.com",
+  "phone": "(954) 684-3132",
+  "website": "http://www.hitomim.com",
+  "summary": "A summary of John Doe...",
+  "location": {
+    "address": "Undisclosed Drive",
+    "postalCode": "FL 33333",
+    "city": "Boca Raton",
+    "countryCode": "US",
+  },
+"profiles": [{
+  "network": "LinkedIn",
+  "username": "hitomim",
+  "url": "https://www.linkedin.com/in/hitomim"
+  },
+  {
+  "network" : "Twitter",
+  "username"  "hito_miz"
+  "url" : "https://twitter.com/hito_miz",	
+}],
+"work": [{
+  "company": "Hitomi Mizugaki LLC",
+  "position": "Self-employed",
+  "startDate": "2012-08-12",
+  "endDate": "2014-12-31",
+  "summary": "Guided homebuyers, investors and sellers through sale and purchase transactions of real estate properties and offered professional opinions and services including negotiation of terms and price analysis.",
+  "highlights": [
+    "Started the company"
+  ]
+}],
+"volunteer": [{
+  "organization": "Soka Gakkai International",
+  "position": "Regional counselor",
+  "website": "http://www.sgi-usa.org",
+  "startDate": "2008",
+  "endDate": "2015",
+  "summary": "Specialized counselor for young members struggling with faith, family or vocational issues. Responsible for taking care of 160+ young female members as well as the organization of member events, the preparation of lectures, the management of monthly meetings and community events in the region of approximately 1400 members.",
+  "highlights": [
+    "Nuclear disarmament exhibition"
+  ]
+}],
+"education": [{
+  "institution": "Soka University of America",
+  "area": "Liberal Arts",
+  "studyType": "BA",
+  "startDate": "2002-08-12",
+  "endDate": "2006-05-21",
+  "gpa": "3.56",
+  }
+  {
+  "institution": "Nova Southeastern University",
+  "area": "Business Administration",
+  "studyType": "MBA",
+  "startDate": "2007-04-09",
+  "endDate": "2008-12-14",
+  "gpa": "3.91",
+ }
+],
+"skills": [{
+  "name": "Web Development",
+  "level": "Beginner",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Ruby"
+  ]
+}],
+"languages": [{
+  "language": "English",
+  "fluency": "Fluent"
+  },
+  {
+   "language": "Japanese",
+   "fluency": "Native speaker"
+   },
+   {
+   "language": "Spanish",
+   "fluency": "Basic"
+   	}],
+"interests": [{
+  "name": "Yoga",
+  "keywords": [
+    "Certified teacher",
+    "Teach underprevilaged youth"
+  ]
+}],
+}
+}
