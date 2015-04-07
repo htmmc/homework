@@ -21,7 +21,8 @@
   "network" : "Twitter",
   "username"  "hito_miz"
   "url" : "https://twitter.com/hito_miz",	
-}],
+  }]
+ },
 "work": [{
   "company": "Hitomi Mizugaki LLC",
   "position": "Self-employed",
@@ -87,7 +88,7 @@
   "keywords": [
     "Certified teacher",
     "Teach underprevilaged youth"
-  ]
-}],
+    ]
+  }]
 }
-}
+
